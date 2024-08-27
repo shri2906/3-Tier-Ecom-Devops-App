@@ -1,4 +1,4 @@
-# Jenkins-Zero-To-Hero
+# 3-Tier-Ecom-Devops-App
 
 Jenkins right from Zero(installation) to Hero(Build end to end pipelines)? then you are at the right place. 
 
